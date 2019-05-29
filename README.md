@@ -10,7 +10,9 @@ Provides a corpus of scientific texts, used for BioCreative, a competition in wh
 
 ##  	BC4CHEMD
 https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/
+
 https://github.com/cambridgeltl/MTL-Bioinformatics-2016/tree/master/data/BC4CHEMD-IOBES
+
 https://github.com/cambridgeltl/MTL-Bioinformatics-2016
 
 The 2015 CDR challenge is now successfully completed! Please find the overview paper below:
@@ -20,7 +22,9 @@ Wei CH, Peng Y, Leaman R, Davis AP, Mattingly CJ, Li J, Wiegers TC, and Lu Z. Ov
 ##  BC5CDR-chem， 	BC5CDR-disease
 
 https://github.com/cambridgeltl/MTL-Bioinformatics-2016/tree/master/data/BC5CDR-chem-IOB
+
 https://github.com/wonjininfo/CollaboNet
+
 The resulting BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
 
 ## GENIA
@@ -38,10 +42,12 @@ Besides binomials following the Linnaean naming convention, recognised taxonomic
 
 ##  Revised 	JNLPBA
 https://arxiv.org/abs/1901.10219
+
 https://github.com/spyysalo/jnlpba
 
 ##  	NCBI-disease
 https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/
+
 The NCBI disease corpus is fully annotated at the mention and concept level to serve as a research resource for the biomedical natural language processing community.
 
 
